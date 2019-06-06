@@ -1,0 +1,1 @@
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache

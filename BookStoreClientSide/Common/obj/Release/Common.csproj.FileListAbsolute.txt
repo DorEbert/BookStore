@@ -1,0 +1,8 @@
+C:\Users\dor\source\repos\BookStoreClientSide\Common\bin\Release\Common.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Common\bin\Release\Common.pdb
+C:\Users\dor\source\repos\BookStoreClientSide\Common\bin\Release\Newtonsoft.Json.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Common\obj\Release\Common.csprojAssemblyReference.cache
+C:\Users\dor\source\repos\BookStoreClientSide\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+C:\Users\dor\source\repos\BookStoreClientSide\Common\obj\Release\Common.csproj.CopyComplete
+C:\Users\dor\source\repos\BookStoreClientSide\Common\obj\Release\Common.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Common\obj\Release\Common.pdb

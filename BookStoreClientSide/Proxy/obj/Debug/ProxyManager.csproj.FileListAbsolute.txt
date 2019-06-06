@@ -1,0 +1,11 @@
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Proxy.dll.config
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Proxy.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Proxy.pdb
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Common.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\bin\Debug\Common.pdb
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\ProxyManager.csprojAssemblyReference.cache
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\ProxyManager.csproj.CoreCompileInputs.cache
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\ProxyManager.csproj.CopyComplete
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\Proxy.dll
+C:\Users\dor\source\repos\BookStoreClientSide\Proxy\obj\Debug\Proxy.pdb

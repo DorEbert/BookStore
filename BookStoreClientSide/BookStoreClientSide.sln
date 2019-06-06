@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebPortal", "WebPortal\WebPortal.csproj", "{DDCAFC1D-8890-4200-A8F6-F1855E762986}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{B22D5EC1-88B1-48E8-B4F5-1A0B5777FC88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyManager", "Proxy\ProxyManager.csproj", "{FDEDC838-8E32-4BE8-9332-70885D541852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDCAFC1D-8890-4200-A8F6-F1855E762986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDCAFC1D-8890-4200-A8F6-F1855E762986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDCAFC1D-8890-4200-A8F6-F1855E762986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDCAFC1D-8890-4200-A8F6-F1855E762986}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B22D5EC1-88B1-48E8-B4F5-1A0B5777FC88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B22D5EC1-88B1-48E8-B4F5-1A0B5777FC88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B22D5EC1-88B1-48E8-B4F5-1A0B5777FC88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B22D5EC1-88B1-48E8-B4F5-1A0B5777FC88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDEDC838-8E32-4BE8-9332-70885D541852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDEDC838-8E32-4BE8-9332-70885D541852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDEDC838-8E32-4BE8-9332-70885D541852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDEDC838-8E32-4BE8-9332-70885D541852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {613ABA25-676A-4E68-B20F-AE2C261EAB7F}
+	EndGlobalSection
+EndGlobal
